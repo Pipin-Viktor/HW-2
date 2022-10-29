@@ -1,0 +1,28 @@
+/* ul {
+  list-style-type: square;
+}
+
+li {
+  list-style-type: none;
+}
+li ::before {
+  content: H;
+}
+
+ul {
+  list-style-image: url(/example/image/book.png);
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+} */
+
+td {
+  background-color: #ececec;
+  padding: 0, 5rem;
+}
+
+table {
+  border-spacing: 4px;
+}
